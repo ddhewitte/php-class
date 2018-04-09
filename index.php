@@ -8,4 +8,7 @@ echo '<a href="inheritance.php">Inheritance</a><br>';
 echo '<a href="inheritance2.php">Inheritance (Mengakses parent method) </a><br>';
 echo '<a href="poly.php">Polymorfisme </a><br>';
 
+
+echo '<br><br>akses code melalui gitHub <a href="https://github.com/ddhewitte/php-class">Github Source</a>';
+
 ?>
